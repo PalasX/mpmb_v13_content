@@ -9,8 +9,8 @@
 /*	-INFORMATION-
 	Subject:	Subclass
 	Effect:		This script adds a subclass for the Paladin, called "Oath of the Raven"
-				This is taken from 5esrd.com
-				(https://www.5esrd.com/classes/paladin/paladin-sacred-oaths/oath-of-the-raven/)
+				This is taken from Fateforge
+				(https://www.drivethrurpg.com/product/302113/)
 
 	Code by:	PalasX
 	Date:		2021-11-21 (sheet v13.0.9)
@@ -24,7 +24,7 @@ SourceList["FFCRB"] = {
 	name : "Fateforge Role-Playing Game Adventurers Core Rulebook",
 	abbreviation : "FFCRB",
 	group : "Fateforge",
-	url : "https://www.5esrd.com/classes/paladin/paladin-sacred-oaths/oath-of-the-raven/",
+	url : "https://www.drivethrurpg.com/product/302113/",
 	date : "2019/04/01"
 };
 
